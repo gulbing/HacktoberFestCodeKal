@@ -1,2 +1,2 @@
-Katılımcı Listesi
+#Katılımcı Listesi
 1.Gökçe Düzyol
